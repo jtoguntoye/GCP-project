@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app-container
-        image: gcr.io/gke-project-385918/gcp-project1:latest
+        image: gcr.io/gke-project-385918/gcp-project1-dev:latest
         ports:
         - containerPort: 5000
         env:
