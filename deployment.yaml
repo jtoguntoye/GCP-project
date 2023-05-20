@@ -8,11 +8,11 @@ spec:
   replicas: 3
   selector:
     matchLabels:
-      app: gcp-app
+      app: gcp
   template:
     metadata:
       labels:
-        app: gcp-app
+        app: gcp
     spec:
       containers:
       - name: app-container
