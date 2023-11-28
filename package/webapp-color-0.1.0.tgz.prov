@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: v1
+description: A Helm chart for Webapp Color Application
+name: webapp-color
+type: application
+version: 0.1.0
+
+...
+files:
+  webapp-color-0.1.0.tgz: sha256:3a77a56de803a52a0d4e621a15fa7d0e85246efbc7ab65160ad6e52e1b342519
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJlZartCRA1t0A6wVt7GQAAH5oMAH9gmNeiHYSSDiO6tqAqQz7F
+6PAjCOq2HbJo/uC0vX312O1bivDdZxqisUClO+Pyx9VFjI5La/wQM5rBcOnQeSvc
+ZAU/ROPCZZzU7nBwlpfi8LkFOpcJmZpiatHvvID8p5lJXQ8NEGdwPbLjcdOLYzOR
+g6rac2FjvvCf+VzXlyQ6oal/2RywbsngsXlIgGGrRVUH1jQmNsUKl9dEEIVuADjd
+VtuLVOqOUoGKGm8S4vixjfH5Q7y8aAtKclme0pX7ln0AQPoGAP7ZWiuo2e8GKsWF
+IdgGMQIiJiqlxScqTVwOVlHGfWG/8PWwWkMKdX3ika03E8PFhMfxl3R8FZiUtjVB
+ExTDEfARwfmRuOpZefmJb0IIyfi832hiFLkWWAQGRnbgguFbMIrGZnI+3G/dFA8y
+7g1QB8GHbwuMequfb9cA/nrQIYWSg3OOWQDQgCGPLr+ClZdI0rWcjfXh25CPynja
+2Y+TQamL+8ZScicvYUykY+Kax/K9ArCwF820IvdCgQ==
+=2rdZ
+-----END PGP SIGNATURE-----
